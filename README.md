@@ -2,7 +2,7 @@
 
 > Give a date. Get a playlist.
 
-This Python script scrapes the Billboard Hot 100 chart for a given date and automatically creates a **private Spotify playlist** with those songs using the Spotify Web API.
+This Python script scrapes the Billboard Hot 100 chart for a given date and automatically creates a **public Spotify playlist** with those songs using the Spotify Web API.
 
 ---
 
@@ -11,7 +11,7 @@ This Python script scrapes the Billboard Hot 100 chart for a given date and auto
 - Scrapes Billboard Hot 100 using BeautifulSoup
 - Authenticates securely using Spotify OAuth 2.0
 - Searches Spotify for matching songs by name and year
-- Creates a private playlist in your Spotify account
+- Creates a public playlist in your Spotify account
 
 ---
 
